@@ -1,3 +1,3 @@
-# This Stat Group Project
+# STAT5000 Group Project
 
-## Group member: Ziqian Wang, Ronan Guo, Siddhant Sharma, Yan Xia, Maiqi Hou
+## Group member: `Ziqian Wang`, `Ronan Guo`, `Siddhant Sharma`, `Yan Xia`, `Maiqi Hou`
